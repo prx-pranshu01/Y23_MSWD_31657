@@ -23,8 +23,7 @@ const Courses = () => {
                 LTPS: 7-0-0-1
                 Credits: 5
             </li>
-         </u1>
-         
+         </u1>        
     </div>
   )
 }
